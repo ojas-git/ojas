@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(19, 19, 19);
+    color: rgba(255, 255, 255, 0.87);
+}
+h1{
+    margin-left: 20px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    width:25vw;
+    justify-content:space-between;
+}
+a{
+    text-decoration: none;
+    color: rgba(0, 153, 241, 0.87);
+}
+a:hover{
+    border-bottom: 1px dashed rgba(0, 153, 241, 0.87);
+}
+hr{
+    margin-top: 50vh;
+}
+.intro {
+    margin: 20px;
+}
